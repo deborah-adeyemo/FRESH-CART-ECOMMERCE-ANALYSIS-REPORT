@@ -102,13 +102,13 @@ The analysis of Fresh Cart's advertising platforms reveals that YouTube is the m
 
 Based on the insights above, the following recommendations are proposed that the [stakeholder team] to consider the following: 
 
-* Increase investment in YouTube campaigns: YouTube consistently delivers high conversion rates, lower costs per conversion, and excellent ROAS. Additional budget allocation to this platform will likely yield better returns for Fresh Cart.**
+* Increase investment in YouTube campaigns: YouTube consistently delivers high conversion rates, lower costs per conversion, and excellent ROAS. Additional budget allocation to this platform will likely yield better returns for Fresh Cart.
   
-* Optimize Twitter ad spend: Although Twitter has strong conversion rates, its high cost per conversion suggests inefficiencies. Consider refining targeting, ad creatives, and frequency capping to maximize ROAS.**
+* Optimize Twitter ad spend: Although Twitter has strong conversion rates, its high cost per conversion suggests inefficiencies. Consider refining targeting, ad creatives, and frequency capping to maximize ROAS.
   
-* Reassess Google Ads strategy: With the highest cost per conversion and lowest ROAS, Google Ads is underperforming. The need to explore alternative keywords and ad formats, and consider reducing spend in favor of higher-performing platforms.**
+* Reassess Google Ads strategy: With the highest cost per conversion and lowest ROAS, Google Ads is underperforming. The need to explore alternative keywords and ad formats, and consider reducing spend in favor of higher-performing platforms.
   
-* Explore more campaigns on YouTube: Given YouTube's success despite running fewer campaigns, Fresh Cart should consider increasing the number of YouTube ads or extending the duration of successful campaigns.**
+* Explore more campaigns on YouTube: Given YouTube's success despite running fewer campaigns, Fresh Cart should consider increasing the number of YouTube ads or extending the duration of successful campaigns.
   
   
 
