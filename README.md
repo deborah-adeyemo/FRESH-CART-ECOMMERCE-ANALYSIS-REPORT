@@ -24,10 +24,10 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 Fresh Cart's main database structure consists of four tables, each capturing specific data relevant to its ad campaigns. Here's a breakdown of the tables and their contents:
 
-- **Table 2:Platform Performance**
-- **Table 3:Conversion Data**
-- **Table 4:Ad Spend Breakdown**
-- **Table 5:Campaign Analytics**
+- **Table 1:Platform Performance**
+- **Table 2:Conversion Data**
+- **Table 3:Ad Spend Breakdown**
+- **Table 4:Campaign Analytics**
 
 [Entity Relationship Diagram here]
 
