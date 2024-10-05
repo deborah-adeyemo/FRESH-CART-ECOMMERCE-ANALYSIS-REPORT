@@ -5,7 +5,7 @@
 Fresh Cart is an e-commerce company that has been actively leveraging various digital platforms to drive online sales. It operates within the online retail industry, where optimizing ad spend and conversion rates is crucial for maintaining profitability and growth. Fresh Cart's business model revolves around targeting diverse audiences across platforms which includes YouTube, Twitter, Facebook, Instagram, and Google Ads. The focus of this analysis is to understand the performance of these platforms from a data analytics perspective and provide actionable insights to optimize future campaigns.
 
 
-Insights and recommendations are provided on the following key areas:
+Insights and recommendations are provided on the following key North Star Metrics areas:
 
 - **Category 1:Platform Effectiveness** 
 - **Category 2:Cost per Conversion**
