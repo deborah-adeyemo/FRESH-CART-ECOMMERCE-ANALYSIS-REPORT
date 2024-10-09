@@ -7,7 +7,7 @@ Fresh Cart is an e-commerce company that has been actively leveraging various di
 
 Insights and recommendations are provided on the following key North Star Metrics areas:
 
-- **Category 1:Platform Effectiveness** 
+- **Category 1:Platform Performance** 
 - **Category 2:Cost per Conversion**
 - **Category 3:Return on Ad Spend (ROAS)**
 - **Category 4:Campaign Frequency and Duration** 
@@ -17,21 +17,6 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 Targed SQL queries regarding various business questions can be found here [link].
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
-
-
-# Data Structure & Initial Checks
-
-Fresh Cart's main database structure consists of four tables, each capturing specific data relevant to its ad campaigns. Here's a breakdown of the tables and their contents:
-
-- **Table 1:Platform Performance**
-- **Table 2:Conversion Data**
-- **Table 3:Ad Spend Breakdown**
-- **Table 4:Campaign Analytics**
-
-[Entity Relationship Diagram here]
-
-
 
 # Executive Summary
 
@@ -45,7 +30,7 @@ The analysis of Fresh Cart's advertising platforms reveals that YouTube is the m
 
 
 # Insights Deep Dive
-### Platform Effectiveness:
+### Platform Performance:
 
 * **Main insight 1 :** YouTube and Twitter shows high conversion rates (6.41% and 6.79% respectively), surpassing the industry average of 1.4% Youtube and 0.77%Twitter.
   
@@ -102,13 +87,13 @@ The analysis of Fresh Cart's advertising platforms reveals that YouTube is the m
 
 Based on the insights above, the following recommendations are proposed that the [stakeholder team] to consider the following: 
 
-* Increase investment in YouTube campaigns: YouTube consistently delivers high conversion rates, lower costs per conversion, and excellent ROAS. Additional budget allocation to this platform will likely yield better returns for Fresh Cart.
+**Increase investment in YouTube campaigns:** YouTube consistently delivers high conversion rates, lower costs per conversion, and excellent ROAS. Additional budget allocation to this platform will likely yield better returns for Fresh Cart.
   
-* Optimize Twitter ad spend: Although Twitter has strong conversion rates, its high cost per conversion suggests inefficiencies. Consider refining targeting, ad creatives, and frequency capping to maximize ROAS.
+**Optimize Twitter ad spend:** Although Twitter has strong conversion rates, its high cost per conversion suggests inefficiencies. Consider refining targeting, ad creatives, and frequency capping to maximize ROAS.
   
-* Reassess Google Ads strategy: With the highest cost per conversion and lowest ROAS, Google Ads is underperforming. The need to explore alternative keywords and ad formats, and consider reducing spend in favor of higher-performing platforms.
+**Reassess Google Ads strategy:** With the highest cost per conversion and lowest ROAS, Google Ads is underperforming. The need to explore alternative keywords and ad formats, and consider reducing spend in favor of higher-performing platforms.
   
-* Explore more campaigns on YouTube: Given YouTube's success despite running fewer campaigns, Fresh Cart should consider increasing the number of YouTube ads or extending the duration of successful campaigns.
+**Explore more campaigns on YouTube:** Given YouTube's success despite running fewer campaigns, Fresh Cart should consider increasing the number of YouTube ads or extending the duration of successful campaigns.
   
   
 
@@ -116,10 +101,10 @@ Based on the insights above, the following recommendations are proposed that the
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 
-* Assumption 1 Missing data for specific campaigns was estimated based on historical trends.
+**Assumption 1:** Missing data for specific campaigns was estimated based on historical trends.
   
-* Assumption 1 Refunds and returns were not accounted for in the conversion value calculations due to data limitations.
+**Assumption 1:** Refunds and returns were not accounted for in the conversion value calculations due to data limitations.
   
-* Assumption 1 Campaign effectiveness was primarily measured based on ROAS, but factors like customer lifetime value were not included.
+**Assumption 1:** Campaign effectiveness was primarily measured based on ROAS, but factors like customer lifetime value were not included.
 
 
