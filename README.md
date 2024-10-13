@@ -40,7 +40,7 @@ The analysis of Fresh Cart's advertising platforms reveals that YouTube is the m
   
 * **Main insight 4 :** Despite running fewer campaigns, YouTube generates more sales revenue of ($29K) while Twitter sales revenue was ($28K), with about 1k difference highlighting its overall efficiency.
 
-[Visualization specific to category 1]
+![Image alt](https://github.com/deborah-adeyemo/FRESH-CART-ECOMMERCE-ANALYSIS-REPORT/blob/7c3442c0d4900c7d61fa36326e40862065f7b73d/Platform%20Analysis.png)
 
 
 ### Cost per Conversion:
