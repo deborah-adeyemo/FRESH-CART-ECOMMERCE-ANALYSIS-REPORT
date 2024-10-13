@@ -25,7 +25,7 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 The analysis of Fresh Cart's advertising platforms reveals that YouTube is the most effective platform, with the highest Return on Ad Spend (ROAS), lowest cost per conversion, and maximum sales revenue. On the other hand, Google Ads is the least efficient, showing the highest cost per conversion and lowest ROAS. These insights suggest that reallocating advertising budgets to more effective platforms like YouTube could significantly improve Fresh Cart’s digital advertising efficiency.
 
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![Image alt](https://github.com/deborah-adeyemo/FRESH-CART-ECOMMERCE-ANALYSIS-REPORT/blob/c72b618839b1f1f8f43084e685cc59bedf2f83d3/Total%20ads%20Cost.png)
 
 
 
