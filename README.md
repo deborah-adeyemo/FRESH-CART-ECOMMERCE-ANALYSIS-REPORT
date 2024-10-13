@@ -12,12 +12,6 @@ Insights and recommendations are provided on the following key North Star Metric
 - **Category 3:Return on Ad Spend (ROAS)**
 - **Category 4:Campaign Frequency and Duration** 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
 # Executive Summary
 
 ### Overview of Findings
@@ -53,8 +47,6 @@ The analysis of Fresh Cart's advertising platforms reveals that YouTube is the m
   
 * **Main insight 4 :** Facebook and Instagram have moderate costs per conversion ($16.68 and $26.16, respectively), indicating that they are mid-range options in terms of cost-efficiency.
 
-[Visualization specific to category 2]
-
 
 ### Return on Ad Spend (ROAS):
 
@@ -65,8 +57,6 @@ The analysis of Fresh Cart's advertising platforms reveals that YouTube is the m
 * **Main insight 3 :** Facebook's ROAS is lower than YouTube and Twitter, at 229.75%, highlighting potential areas for improvement in targeting and campaign execution.
   
 * **Main insight 4 :** Google Ads performs the worst in terms of ROAS (170.88%), signaling the need for a reassessment of the strategy for this platform.
-
-[Visualization specific to category 3]
 
 
 ### Campaign Frequency and Duration:
