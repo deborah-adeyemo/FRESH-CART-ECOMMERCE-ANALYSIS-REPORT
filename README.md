@@ -79,7 +79,8 @@ The analysis of Fresh Cart's advertising platforms reveals that YouTube is the m
   
 * **Main insight 4 :** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
 
-![Image alt](https://github.com/deborah-adeyemo/FRESH-CART-ECOMMERCE-ANALYSIS-REPORT/blob/8dec3678c2a9f7cf3e5f9115999516ca22a61072/Youtube%20Ads.png)
+![Image alt](https://github.com/deborah-adeyemo/FRESH-CART-ECOMMERCE-ANALYSIS-REPORT/blob/8dec3678c2a9f7cf3e5f9115999516ca22a61072/Youtube%20Ads.png)(https://github.com/deborah-adeyemo/FRESH-CART-ECOMMERCE-ANALYSIS-REPORT/blob/b3843fae11bfc16ff3c4c6ef51781d46fcfbf6f3/Twitter%20Ads.png)
+
 
 
 
